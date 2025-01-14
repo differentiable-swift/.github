@@ -15,5 +15,5 @@ programming to the Swift programming language.
 
   * Check out key repositories like the [differentiation-enabled compiler](https://github.com/differentiable-swift/swift) and [differentiable swift examples](https://github.com/differentiable-swift/differentiable-swift-examples)
 
-  * Learn more about [contributing]() or [join the community]()!
+  * Learn more about [contributing]() or [join the community](https://discord.gg/dwTDkXyJZS)!
 
