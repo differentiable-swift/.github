@@ -13,7 +13,10 @@ programming to the Swift programming language.
 
   * Visit the [Differentiable Programming Manifesto](https://github.com/swiftlang/swift/blob/main/docs/DifferentiableProgramming.md) to learn more about differentiable programming in Swift
 
-  * Check out key repositories like the [differentiation-enabled compiler](https://github.com/differentiable-swift/swift) and [differentiable swift examples](https://github.com/differentiable-swift/differentiable-swift-examples)
+  * Check out key repositories like the [swift compiler](https://github.com/swiftlang/swift) and our packages:
+      - [swift-differentiation](https://github.com/differentiable-swift/swift-differentiation)
+      - [swift-numerics-differentiable](https://github.com/differentiable-swift/swift-numerics-differentiable)
+      - [swift-collections-differentiable](https://github.com/differentiable-swift/swift-collections-differentiable)
 
   * Learn more about [contributing]() or [join the community](https://discord.gg/hrABYfkn89)
 
